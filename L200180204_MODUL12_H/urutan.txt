@@ -1,0 +1,5 @@
+1.menyambungkan (connect.py)
+2.membuat database sekolah create_con
+4.membuat table guru,siswa,pelajaran (table_guru,pelajaran,siwa.py)
+5.memasukan data ke table (inssiswa,guruu,pelajaran.py)
+6.finishingg (siswa,deletesiswa,guruu,deleteguru......py)
